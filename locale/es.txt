@@ -1,0 +1,154 @@
+#: locale=es
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Sin Título 1
+
+## Skin
+
+### Botón
+Button_0210B80A_60F5_E834_41C2_262A279EA500.label = Lorem Ipsum
+Button_023318B5_60F5_E85C_41C2_C8C50D7C368E.label = Lorem Ipsum
+Button_025CF94C_60F5_E8CC_41C7_4B0565CACC1A.label = Lorem Ipsum
+Button_027E69DF_60F5_EBCC_41D0_DA549FE430A5.label = Lorem Ipsum
+Button_02C35607_60F5_D83C_41D1_3F7BE5AB7368.label = Lorem Ipsum
+Button_030C6B04_60CA_683C_419C_6C1F0B9EB051.label = Lorem Ipsum
+Button_039B0A9C_60F5_E84C_41B4_85DA5003EEFE.label = Lorem Ipsum
+Button_03AA7C9B_60F5_E854_41D1_C29772B2A455.label = Lorem Ipsum
+Button_062AF830_1140_E215_418D_D2FC11B12C47.label = LOREM IPSUM
+Button_19640B96_60CA_685C_41D0_C3EFCA646A08.label = Lorem Ipsum
+Button_307CB5CF_6057_FBCC_4181_83F08F76DF2A.label = AMENITIES
+Button_307E25CE_6057_FBCC_41D1_E295E5C3528A.label = Main Entrance
+Button_307E65CE_6057_FBCC_41D4_18C7A0A54239.label = RECEPTION
+Button_307F05CE_6057_FBCC_41D6_C582E4F8D33B.label = Lorem Ipsum
+Button_307F25D0_6057_FBD4_41B0_5E14C1D2FC22.label = RESTAURANTS
+Button_307F45CE_6057_FBCC_41D5_FD32EE2D5A78.label = ROOMS
+Button_307F65CF_6057_FBCC_41BB_13FA17E2C9AB.label = SPORTS AREA
+Button_307F85CE_6057_FBCC_41D3_51C00DB92A20.label = Chill Out
+Button_307F95CE_6057_FBCC_41C7_B333F07C8122.label = Bar
+Button_307FB5CE_6057_FBCC_41AE_9BF529C6E6AF.label = Terrace
+Button_307FC5CE_6057_FBCC_4190_85A741B8DCAC.label = Reception
+Button_307FC5CE_6057_FBCC_4190_85A741B8DCAC.pressedLabel = Reception
+Button_307FD5CE_6057_FBCC_41CC_536DDA444F00.label = Lobby
+Button_307FD5CF_6057_FBCC_41D4_AEEBAD314687.label = SWIMMING POOL
+Button_307FE5CE_6057_FBCC_41D1_2DA85B874499.label = Meeting Area 2
+Button_307FF5CE_6057_FBCC_41D5_405F882ECED2.label = Meeting Area 1
+Button_3AEC57F6_60D6_67DD_41D0_694A036298AF.label = Lorem Ipsum
+Button_3B031B65_60CE_E8FC_41CF_18C07E2E58B8.label = Lorem Ipsum
+Button_3B197998_60D6_6855_41C7_99A6C32E2384.label = Lorem Ipsum
+Button_3B1F3FAF_60CE_684C_41A0_AD93990FC16F.label = Lorem Ipsum
+Button_3B3673B8_60CF_B854_41B9_8AC7249D3A1B.label = Lorem Ipsum
+Button_3B3C7B5C_60D6_68CD_41D1_FFB577C80ADA.label = Lorem Ipsum
+Button_3B4F7E10_60CE_E854_41D3_4200495C04EB.label = Lorem Ipsum
+Button_3B5DCD73_60CE_E8D4_41A0_A70D622FF822.label = Lorem Ipsum
+Button_3B66CEDB_60CE_E9D4_41CA_2F3DAC235546.label = Lorem Ipsum
+Button_3B92E10A_60D6_7834_41D1_4B446F9FB434.label = Lorem Ipsum
+Button_3BBB129C_60D6_784C_41D3_B811E1E9E26B.label = Lorem Ipsum
+Button_3BC5B42E_60D6_784D_41A3_6479FA21A1A9.label = Lorem Ipsum
+Button_3BF9B800_60D6_6834_41B0_F6309500A250.label = Lorem Ipsum
+Button_3C1F1344_60CE_583C_419A_D3E4ACDEA010.label = Lorem Ipsum
+Button_3C2E84AF_60CE_584B_41C3_79FAE620CCE9.label = Lorem Ipsum
+Button_3C35C0B9_60CD_F854_41CA_2F187FB8960F.label = Lorem Ipsum
+Button_3C374402_60CE_5834_41C7_743903F3EAD1.label = Lorem Ipsum
+Button_3C45F5D2_60CE_5BD4_41C0_CC1810D45E29.label = Lorem Ipsum
+Button_3C58D2BC_60CD_F84C_41D7_7CB447A7D5BF.label = Lorem Ipsum
+Button_3C69544A_60CD_F835_41CA_C7312C7B3578.label = Lorem Ipsum
+Button_3C70C399_60CD_F854_41D6_488C924AD534.label = Lorem Ipsum
+Button_3C85A007_60CE_F83B_41B9_7D30CC9CF6EC.label = Lorem Ipsum
+Button_3C96EF55_60CE_E8DC_4180_0D3CE8FCB751.label = Lorem Ipsum
+Button_3CA53F6D_60CE_68CC_41D0_97234605DBC6.label = Lorem Ipsum
+Button_3CC3E3ED_60CE_FFCC_41C4_C48363B62A80.label = Lorem Ipsum
+Button_3CE40290_60CE_5854_41D7_2608A956C59B.label = Lorem Ipsum
+Button_3CF0E1E2_60CE_5BF4_4136_3FE02552AC94.label = Lorem Ipsum
+Button_3D8024FE_60CD_F9CC_41D7_A101588235F6.label = Lorem Ipsum
+Button_3DBB65DA_60CD_FBD4_41D0_4F3B5CD606A9.label = Lorem Ipsum
+Button_3DF12A63_60CD_E8FB_41D0_83B1FB2CC56F.label = Lorem Ipsum
+Button_41E392A5_60B9_0A08_41BF_F6AAFA87203B.label = FLOORPLAN
+Button_41E3A2A5_60B9_0A08_41BE_55AB547304EE.label = PHOTOS
+Button_41E3B2A5_60B9_0A08_41BC_3A36B4FAF7B8.label = REALTOR
+Button_41E3D2A5_60B9_0A08_41B7_737D4607570D.label = INFO
+Button_41E3F2A5_60B9_0A08_41C3_9FE9C5047659.label = PANORAMAS
+Button_50D923F0_6061_057B_41C9_1D2D7358B7CE.label = MENU
+Button_718FB1CD_60B6_E5E3_41D6_BCB4CCFDFBDC.label = LOREM IPSUM
+
+### Menú Desplegable
+DropDown_0561BA16_3AA3_A1D2_41C7_FDA0B6E9EE29.label = PLANTA BAJA
+DropDown_05783A1F_3AA3_A1D2_41A6_E88282E5373B.label = EXTERIOR
+DropDown_05789A1B_3AA3_A1D2_41CC_002739F0C312.label = PLANTA ALTA
+
+### Texto Multilínea
+HTMLText_062AD830_1140_E215_41B0_321699661E7F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.609999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffff00;font-size:7.61vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.7000000000000015vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.7vh;font-family:'Montserrat';"><B>CASA AA</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.96vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.9599999999999984vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:1.96vh;font-family:'Montserrat';"><B>137.28 M2 DE CONSTRUCCIÓN</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.9599999999999984vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:1.96vh;font-family:'Montserrat';"><B>120 M2 DE TERRENO </B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.96vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.1999999999999995vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.1999999999999995vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></DIV><p STYLE="margin:0; line-height:1.96vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.9599999999999984vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.96vh;font-family:'Montserrat';"><B>DONEC FEUGIAT:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.7399999999999989vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.74vh;"> </SPAN>• Nisl nec mi sollicitudin facilisis </SPAN></DIV><DIV STYLE="text-align:left;font-size:1.1999999999999995vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"> • Nam sed faucibus est.</SPAN></DIV><DIV STYLE="text-align:left;font-size:1.1999999999999995vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"> • Ut eget lorem sed leo.</SPAN></DIV><DIV STYLE="text-align:left;font-size:1.1999999999999995vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"> • Sollicitudin tempor sit amet non urna. </SPAN></DIV><DIV STYLE="text-align:left;font-size:1.1999999999999995vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"> • Aliquam feugiat mauris sit am</SPAN></DIV></div>
+HTMLText_0B42C466_11C0_623D_4193_9FAB57A5AC33.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.609999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f4fe2e;font-size:7.61vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.7000000000000015vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.7vh;font-family:'Montserrat';"><B>CASA AA</B></SPAN></SPAN></DIV></div>
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.0700000000000007vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.07vh;font-family:'Montserrat';"><B>MODULAREM</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.7399999999999989vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.74vh;font-family:'Montserrat';">Arquitectura integral</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.310000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.31vh;font-family:'Montserrat';"><B>Tel.: +52 444 634 3130</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.310000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.31vh;font-family:'Montserrat';"><B>administracion@modularem.mx</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.310000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.31vh;font-family:'Montserrat';"><B>modularem.mx</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.1999999999999995vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Montserrat Thin';">Diseñamos y construimos lugares increíbles, con un alto énfasis en la calidad, nuestra misión es generan la confianza que estabas buscando.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.1999999999999995vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Montserrat Thin';">Nuestra garantía es llevar los proyectos a niveles superiores, con innovación tecnológica en todos nuestros procesos.</SPAN></SPAN></DIV></div>
+HTMLText_718FA1CD_60B6_E5E3_41D3_6335BDF289A6.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:19.933972222222224vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffff00;font-size:19.93vmin;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:9.691944444444449vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:9.69vmin;font-family:'Montserrat';"><B>CASA AA</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:5.13vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:3.14vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:5.134111111111106vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:5.13vmin;font-family:'Montserrat';"><B>137.28 M2 DE CONSTRUCCIÓN</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.134111111111106vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:5.13vmin;font-family:'Montserrat';"><B>120 M2 DE TERRENO </B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:5.13vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:3.14vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:5.134111111111106vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.13vmin;font-family:'Montserrat';"><B>DONEC FEUGIAT:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.557833333333337vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:3.14vmin;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.56vmin;"> </SPAN>• Nisl nec mi sollicitudin facilisis </SPAN></DIV><DIV STYLE="text-align:left;font-size:3.143333333333333vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:3.14vmin;font-family:Arial, Helvetica, sans-serif;"> • Nam sed faucibus est.</SPAN></DIV><DIV STYLE="text-align:left;font-size:3.143333333333333vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:3.14vmin;font-family:Arial, Helvetica, sans-serif;"> • Ut eget lorem sed leo.</SPAN></DIV><DIV STYLE="text-align:left;font-size:3.143333333333333vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:3.14vmin;font-family:Arial, Helvetica, sans-serif;"> • Sollicitudin tempor sit amet non urna. </SPAN></DIV><DIV STYLE="text-align:left;font-size:3.143333333333333vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:3.14vmin;font-family:Arial, Helvetica, sans-serif;"> • Aliquam feugiat mauris sit am</SPAN></DIV></div>
+HTMLText_731CF57E_60BF_A2A1_41D7_B81B17089B91.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.422250000000007vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.42vmin;font-family:'Montserrat';"><B>MODULAREM</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.557833333333336vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.56vmin;font-family:'Montserrat';">Arquitectura integral</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.14vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:3.14vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.0555555555555554vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:3.06vmin;font-family:'Montserrat';"><B>Tel.: +52 444 634 3130</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.0555555555555554vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:3.06vmin;font-family:'Montserrat';"><B>administracion@modularem.mx</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.0555555555555554vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:3.06vmin;font-family:'Montserrat';"><B>modularem.mx</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.06vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:3.14vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_731F057E_60BF_A2A1_41C8_ACE4EB05FF54.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.143333333333333vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:3.14vmin;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Montserrat Thin';">Diseñamos y construimos lugares increíbles, con un alto énfasis en la calidad, nuestra misión es generan la confianza que estabas buscando.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.143333333333333vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:3.14vmin;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Montserrat Thin';">Nuestra garantía es llevar los proyectos a niveles superiores, con innovación tecnológica en todos nuestros procesos.</SPAN></SPAN></DIV></div>
+
+### Etiqueta
+Label_0C5F13A8_3BA0_A6FF_41BD_E3D21CFCE151.text = CASA GG
+Label_0C5F13A8_3BA0_A6FF_41BD_E3D21CFCE151_mobile.text = CASA AA
+Label_0C5F23A8_3BA0_A6FF_419F_468451E37918_mobile.text = DOLOR SIT AMET
+Label_0E9CEE5D_36F3_E64E_419C_5A94FA5D3CA1_mobile.text = MODULAREM
+Label_4A747828_6177_865E_41C0_75980542DCE4.text = MODULAREM
+Label_74AF3476_610B_8EB5_41C2_56A320B4FA5D.text = CASA GG
+
+### Tooltip
+DropDown_0561BA16_3AA3_A1D2_41C7_FDA0B6E9EE29.toolTip = PB
+Label_0C5F13A8_3BA0_A6FF_41BD_E3D21CFCE151.toolTip = CASA AA
+Label_74AF3476_610B_8EB5_41C2_56A320B4FA5D.toolTip = CASA AA
+
+## Media
+
+### Título
+album_7B893A6E_610B_FAD5_41D5_FD7DA1BF8970.label = Álbum de Fotos CAS AA  Opcion B 2 copia
+album_7B893A6E_610B_FAD5_41D5_FD7DA1BF8970_0.label = CAS AA  Opcion B 2 copia
+album_7B893A6E_610B_FAD5_41D5_FD7DA1BF8970_1.label = CAS AA  Opcion B copia
+album_7B893A6E_610B_FAD5_41D5_FD7DA1BF8970_2.label = CAS AA  Opcion B3 copia
+map_5DBEAA0E_6109_BA55_41D0_770679B7A3A7.label = aa 3
+map_5F9746DB_6109_8BF3_41D7_CD0553E7F985.label = aa2
+panorama_54421486_5EF8_8E55_41D1_0CE92A0B1AB6.label = COCINA 2
+panorama_54480737_5EF8_8AB3_41CD_71944ED799A9.label = VESTIDOR RECAMARA 2
+panorama_544820B3_5EF8_87B3_41C1_9EA2FB8B763E.label = WC BAÑO RECAMARA 2
+panorama_54482FF6_5EF8_99B5_41D2_3F9622E03E6D.label = BAÑO RECAMARA 2
+panorama_544842C1_5EFF_8BCF_41C6_B41E69D42D31.label = ESCALERA 2
+panorama_544848AF_5EF9_8653_41D2_78FE146AF19F.label = CAS AAPanorama_40
+panorama_54486C09_5EFF_7E5F_41D7_346F6496FACC.label = PASILLO A RECAMARA 2
+panorama_5448722A_5EFF_8A52_41D7_A05D372B0ED2.label = JARDÍN 1
+panorama_54487922_5EF9_8652_41D6_5D17756F6E13.label = COCHERA ACCESO PPL
+panorama_544879E4_5EFF_B9D6_41D1_1B62175ABD61.label = JARDÍN 
+panorama_54488286_5EF8_8A55_41D2_D8EE44598533.label = COCHERA 3
+panorama_5448986A_5EF8_86D2_41A1_1BBC81AA7F52.label = REGADERA BAÑO RECAMARA 2
+panorama_54489A8C_5EFF_9A55_41B9_1F8A86C3E735.label = ESCALERA 1
+panorama_54489FED_5EF9_79D7_41B2_57B5C642E70A.label = PORTON
+panorama_5448BDAC_5EF8_9E55_41D0_BA454D64A861.label = FACHADA 2
+panorama_5448C463_5EF8_8ED3_41BC_9B1B68A91419.label = FACHADA 3
+panorama_5448D6CA_5EF8_8BDD_41BC_69834A5DD080.label = FACHADA
+panorama_5448F944_5EF8_86D5_41C5_B8CD0EC802A4.label = COCHERA
+panorama_54495B97_5EF8_BA72_41CB_0227372B9091.label = COCHERA 2
+panorama_54499155_5EF9_86F7_41A4_5F9B459588C7.label = CAS AAPanorama_41
+panorama_544CD10C_5EFF_8656_4191_D609E699ADE5.label = WC BAÑO RECAMARA PPL
+panorama_544D85FC_5EFF_89B5_41B6_CD36479FCD92.label = BAÑO RECAMARA PPL
+panorama_544D9A82_5EFF_9A52_41C1_7F8AC15CA7D7.label = JARDÍN 2
+panorama_544DA7DF_5EFF_89F3_4190_20C6C90513E8.label = REGADERA BAÑO RECAMARA PPL
+panorama_544DB4F5_5EFF_8FB6_41A4_79B42C2B05FC.label = PASILLO RECAMARA PPL
+panorama_544DBC42_5EFF_BECD_4194_20A78B0130D8.label = RECAMARA PPL 2
+panorama_544DDF0C_5EFF_FA56_41D2_D5F41EBA07FD.label = VESTIDOR RECAMARA PPL
+panorama_544DFDB2_5EFF_9E4D_41A0_2D1DF0300E95.label = PASILLO 2 RECAMARA PPL
+panorama_544E510F_5EFF_8653_41D6_3284697F59D5.label = BAÑO DE VISITAS
+panorama_544E63FC_5EFF_89B5_41B9_4BCD4DE9E4E2.label = RECAMARA PPL
+panorama_544E87F9_5EF8_89BE_41AE_E842941C3DD7.label = PASILLO A RECAMARA PPL
+panorama_544E8803_5EF8_8652_41C8_1427C43144EE.label = PASILLO ESCALERA
+panorama_544E9622_5EF8_8A52_41AE_E3E3397990DA.label = SALA COMEDOR ESCALERA
+panorama_544EAD82_5EF8_FE52_41D2_490EA546FBB8.label = ÁREA DE LAVADO
+panorama_544EB0A9_5EF8_865E_41D0_8A69B0767E2A.label = SALA COMEDOR
+panorama_544EDD51_5EF8_9ECF_41BB_92A1E13F025B.label = SALA
+panorama_544EE433_5EF8_8EB3_41C3_228BCDEEF5A4.label = ACCESO
+panorama_544EFE8D_5EF8_BA57_41C4_ADA4F09B278B.label = COMEDOR
+panorama_544FCC80_5EF8_9E4D_41B7_4F07F487841C.label = RECAMARA 2 
+panorama_544FCEEF_5EF8_BBD3_41B6_1787FEAC5A8C.label = PASILLO 2 RECAMARA 2
+panorama_544FE47C_5EF8_8EB5_41CE_B565285CF01B.label = PASILLO RECAMARA 2
+panorama_544FE5C0_5EF8_89CD_41D1_E74D9247318C.label = RECAMARA 2  2
+panorama_55FEEADE_5EF8_9BF5_41AB_97CD8149E4CC.label = COCINA
