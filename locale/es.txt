@@ -5,7 +5,7 @@
 ### Descripción
 
 ### Título
-tour.name = Sin Título 1
+tour.name = CASA AA
 
 ## Skin
 
